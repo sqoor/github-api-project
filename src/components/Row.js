@@ -15,7 +15,7 @@ export class Row extends Component {
             style={{ width: "50%" }}
             className="btn btn-outline-dark"
             href={html_url}
-            target="_blank"
+            target="blank"
           >
             {full_name}
           </a>
